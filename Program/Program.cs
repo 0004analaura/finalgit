@@ -12,6 +12,7 @@ namespace Program
         {
             Console.WriteLine("Primer Parcial de Programacion");
             Console.WriteLine("primer cambio en la rama");
+            Console.WriteLine("segundo cambio en la rama");
         }
     }
 }
